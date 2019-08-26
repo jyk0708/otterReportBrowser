@@ -1,0 +1,13 @@
+*.pak
+*.dll
+*.pdb
+*.exe
+*.cache
+*.txt
+*.force
+*.bin
+OtterReportBrowser/bin/
+packages/
+OtterReportBrowser/obj/
+.vs/OtterReportBrowser/v16/TestStore/0/testlog.manifest
+.vs/
